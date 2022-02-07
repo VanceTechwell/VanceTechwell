@@ -1,6 +1,5 @@
 # 👋 Hiho, Im Axel
 
-- 👋 Hi, I’m Axel
 - 👀 I’m interested in programming, front-end development 
 - 🌱 I’m currently working on mini-projects
 - 🏋 I love the Gym 
