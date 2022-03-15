@@ -1,7 +1,7 @@
 # 👋 Hiho, Im Axel
 
 - 👀 I’m interested in programming, front-end development 
-- 🌱 I’m currently working on mini-projects
+- 🌱 Currently learning C++ and hopefully to release first project soon!
 - 🏋 I love the Gym 
 - 🏙 Favorite City. NEW YORK CITY!!
 - 👩‍💻 Fun Fact! I also Hack!
