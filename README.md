@@ -1,10 +1,33 @@
 # 👋 Hiho, Im Axel
+### A litte bit about me
+- 👀 I really like solving problems specifically when it comes into the realm of tech.
+- 🐧 Ubuntu is my primary Linux distributution, But I still use windows here and there.
+- 📚 Really love to learn new things. Like a lot!
+- 🏂 I have a love hate relationship with such low temperature. 
+- 👩‍💻 I also like to hack. Ethically of course.
 
-- 👀 I’m interested in programming, front-end development 
-- 🌱 Currently learning C++ and hopefully to release first project soon!
-- 🏋 I love the Gym 
-- 🏙 Favorite City. NEW YORK CITY!!
-- 👩‍💻 Fun Fact! I also Hack!
+[![Linkedin Badge](https://img.shields.io/badge/-AxelAlinsky-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/axelalinsky/)](https://www.linkedin.com/in/axelalinsky/) [![Twitter Badge](https://img.shields.io/badge/-AxelAlinsky-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/AxelAlinsky)](https://twitter.com/AxelAlinsky)
+
+
 ---
+
 ### Language & Tools
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="Javascript" width="50px">  <img src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png" alt="Javascript" width="50px">  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Javascript" width="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Termux_2.png" alt="Termux_2" width="50px">  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Termux_2" width="50px"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySql" width="50px">                                                                                                                          
+<code><img height="30" src="tools/js.png"></code>
+<code><img height="30" src="tools/py.png"></code>
+<code><img height="30" src="tools/git.png"></code>
+<code><img height="30" src="tools/termux.png"></code>
+<code><img height="30" src="tools/vscode.png"></code>
+<code><img height="30" src="tools/mysql.png"></code>
+<code><img height="30" src="tools/selenium.png"></code>
+
+---
+### Github Overview
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AxelAlinsky&show_icons=true&theme=dark">
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxelAlinsky&layout=compact&title_color=fefefe&text_color=9e9e9e&icon_color=007bff&bg_color=151515">
+</div>
+
