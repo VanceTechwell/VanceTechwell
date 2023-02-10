@@ -1,4 +1,6 @@
-![My Image ](./resources/hello_world.webp)
+<p align="center">
+  <img src="./resources/hello_world.png" />
+</p>
 
 
 ### A Little Bit About Me
