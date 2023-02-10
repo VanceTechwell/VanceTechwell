@@ -17,7 +17,7 @@
 
 ### Language & Tools
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,bootstrap,vscode,git,github,selenium,vscode,ps,mysql,gcp,figma,codepen,firebase,bash,&perline=9&theme=dark" />
   </a>
 </p>
