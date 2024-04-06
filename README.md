@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif" style="max-height: 200px;" />
+  <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif" style="max-height: 100px;" />
 </p>
 
 
@@ -14,7 +14,7 @@
 ### Language & Tools
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,selenium,vscode,ps,mysql,gcp,figma,codepen,firebase,bash,jenkins,grafana,aws,windows,typescript,&perline=9&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,selenium,vscode,ps,mysql,gcp,figma,codepen,firebase,bash,jenkins,grafana,aws,windows,typescript,nodejs,python,powershell,notion,linux,npm,ubuntu,wordpress,anaconda,apple,cloudflare,cypress,docker,electron,figma,elasticsearch,heroku,ruby,vue,vite,&perline=9&theme=dark" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ---
 ### Github Overview
 
-<div align="center">
+<div align="center">   'lkfjasd;lkfjasd;lkfjas;lkdfj;laksdjf;lkasdjf
 
 <table style="border: none;">
   <tr>
