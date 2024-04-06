@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif" style="max-height: 500px;" />
+  <img src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif" style="max-height: 300px;" />
 </p>
 
 
